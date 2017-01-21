@@ -1,11 +1,7 @@
-I changed once again
-I
-Hello awais
-Hello
-what are you doing...what
+<?php 
 
-
-
-
-
-asdfas
+if(1==1)
+{
+  
+  echo "Yay this is true.";
+}
